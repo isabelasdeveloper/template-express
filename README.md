@@ -1,10 +1,6 @@
-# 🚀 RocketLog
-
-API de serviços de entregas feita com **Node.js**, **Express** e **TypeScript**.
+# 🚀 Template de API utilizando Node.js
 
 Este repositório é um template inicial: a estrutura básica da API já está pronta para receber as rotas e as regras de negócio.
-
----
 
 ## 🛠️ Tecnologias
 
